@@ -1,0 +1,13 @@
+{
+  "name": "genesys-remote-disconnect",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/JamieOVO/genesys-remote-disconnect.git",
+  "author": "JamieOVO <104012860+JamieOVO@users.noreply.github.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^18.14.0",
+    "dotenv": "^16.0.3",
+    "purecloud-platform-client-v2": "^158.0.0"
+  }
+}
